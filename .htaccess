@@ -1,0 +1,5 @@
+# Turn on the directory listing
+Options +Indexes
+
+# Set the indexing options to match the "Fancy" look
+IndexOptions +FancyIndexing +HTMLTable +FoldersFirst +NameWidth=* +DescriptionWidth=*
